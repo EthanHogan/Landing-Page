@@ -1,2 +1,2 @@
-# Landing-Page-Exercise
+# Landing-Page
 Practice Landing Page
